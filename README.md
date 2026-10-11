@@ -1,3 +1,3 @@
-# MLOps
+# MLOps lab-01
 
-Lab 01
+Laboratory exercise for the MLOps course at AGH University of Krakow.
